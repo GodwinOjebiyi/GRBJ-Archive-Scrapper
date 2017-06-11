@@ -1,0 +1,16 @@
+{
+	"name": "godwinojebiyi/grbj-scraper",
+	"description": "GRBJ Archive Scraper, Scrapes Author Information and then proceed to scrape author articles.",
+	"type": "library",
+	"authors": [
+        {
+            "name": "Godwin Ojebiyi",
+            "email": "godwinojebiyi@gmail.com"
+        }
+	],
+	"require": {
+		"guzzlehttp/guzzle": "~6.0",
+		"symfony/dom-crawler": "^3.3",
+		"symfony/css-selector": "^3.3"
+	}
+}
